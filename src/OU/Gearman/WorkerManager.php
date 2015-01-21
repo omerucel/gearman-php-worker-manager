@@ -2,6 +2,7 @@
 
 namespace OU\Gearman;
 
+use OU\Gearman\Config\Config;
 use Psr\Log\LoggerInterface;
 
 class WorkerManager

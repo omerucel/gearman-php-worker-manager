@@ -1,6 +1,6 @@
 <?php
 
-namespace OU\Gearman;
+namespace OU\Gearman\Config;
 
 interface Config
 {
