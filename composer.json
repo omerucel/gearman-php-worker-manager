@@ -1,0 +1,13 @@
+{
+  "name": "omerucel/gearman-php-worker-manager",
+  "type": "library",
+  "require": {
+    "php": ">=5.5.0",
+    "psr/log": "*"
+  },
+  "autoload": {
+    "psr-0": {
+      "OU": "src/"
+    }
+  }
+}
